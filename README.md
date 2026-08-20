@@ -99,3 +99,21 @@ CREATE SCHEMA healthcare_catalog.bronze;
 CREATE SCHEMA healthcare_catalog.silver;
 
 CREATE SCHEMA healthcare_catalog.gold;
+
+Bronze Layer
+
+The Bronze layer stores raw source data with ingestion metadata.
+
+Features
+
+- Preserves original data
+
+- Adds metadata columns
+
+- Stores Delta tables
+
+Metadata Added
+
+coloum                                        Description
+
+source_file_name                              Original file name
