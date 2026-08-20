@@ -1,0 +1,141 @@
+A000	Cholera due to Vibrio cholerae 01, biovar cholerae
+A001	Cholera due to Vibrio cholerae 01, biovar eltor
+A009	Cholera, unspecified
+A0100	Typhoid fever, unspecified
+A0101	Typhoid meningitis
+A0102	Typhoid fever with heart involvement
+A0103	Typhoid pneumonia
+A0104	Typhoid arthritis
+A0105	Typhoid osteomyelitis
+A0109	Typhoid fever with other complications
+A011	Paratyphoid fever A
+A012	Paratyphoid fever B
+A013	Paratyphoid fever C
+A019	Paratyphoid fever, unspecified
+A020	Salmonella enteritis
+A021	Salmonella sepsis
+A0220	Localized salmonella infection, unspecified
+A0221	Salmonella meningitis
+A0222	Salmonella pneumonia
+A0223	Salmonella arthritis
+A0224	Salmonella osteomyelitis
+A0225	Salmonella pyelonephritis
+A0229	Salmonella with other localized infection
+A028	Other specified salmonella infections
+A029	Salmonella infection, unspecified
+A030	Shigellosis due to Shigella dysenteriae
+A031	Shigellosis due to Shigella flexneri
+A032	Shigellosis due to Shigella boydii
+A033	Shigellosis due to Shigella sonnei
+A038	Other shigellosis
+A039	Shigellosis, unspecified
+A040	Enteropathogenic Escherichia coli infection
+A041	Enterotoxigenic Escherichia coli infection
+A042	Enteroinvasive Escherichia coli infection
+A043	Enterohemorrhagic Escherichia coli infection
+A044	Other intestinal Escherichia coli infections
+A045	Campylobacter enteritis
+A046	Enteritis due to Yersinia enterocolitica
+A047	Enterocolitis due to Clostridium difficile
+A0471	Enterocolitis due to Clostridium difficile, recurrent
+A0472	Enterocolitis due to Clostridium difficile, not specified as recurrent
+A048	Other specified bacterial intestinal infections
+A049	Bacterial intestinal infection, unspecified
+E1100	Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma
+E1101	Type 2 diabetes mellitus with hyperosmolarity with coma
+E1110	Type 2 diabetes mellitus with ketoacidosis without coma
+E1111	Type 2 diabetes mellitus with ketoacidosis with coma
+E1121	Type 2 diabetes mellitus with diabetic nephropathy
+E1122	Type 2 diabetes mellitus with diabetic chronic kidney disease, stage 1 through stage 4, or unspecified
+E1129	Type 2 diabetes mellitus with other diabetic kidney complication
+E11311	Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema
+E11319	Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema
+E11321	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E11329	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E1136	Type 2 diabetes mellitus with diabetic cataract
+E1140	Type 2 diabetes mellitus with diabetic neuropathy, unspecified
+E1141	Type 2 diabetes mellitus with diabetic mononeuropathy
+E1142	Type 2 diabetes mellitus with diabetic polyneuropathy
+E1143	Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy
+E1144	Type 2 diabetes mellitus with diabetic amyotrophy
+E1149	Type 2 diabetes mellitus with other diabetic neurological complication
+E1151	Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene
+E1152	Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene
+E1159	Type 2 diabetes mellitus with other circulatory complications
+E1161	Type 2 diabetes mellitus with diabetic arthropathy
+E1162	Type 2 diabetes mellitus with skin complications
+E1165	Type 2 diabetes mellitus with hyperglycemia
+E1169	Type 2 diabetes mellitus with other specified complication
+E119	Type 2 diabetes mellitus without complications
+I10	Essential (primary) hypertension
+I110	Hypertensive heart disease with heart failure
+I119	Hypertensive heart disease without heart failure
+I200	Unstable angina
+I2010	Atherosclerotic heart disease of native coronary artery without angina pectoris
+I2111	ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+I2119	ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+I214	Non-ST elevation (NSTEMI) myocardial infarction
+I2510	Atherosclerotic heart disease of native coronary artery without angina pectoris
+I4891	Unspecified atrial fibrillation
+I500	Congestive heart failure, unspecified
+I5020	Unspecified systolic (congestive) heart failure
+I5021	Acute systolic (congestive) heart failure
+I5022	Chronic systolic (congestive) heart failure
+I5023	Acute on chronic systolic (congestive) heart failure
+I5030	Unspecified diastolic (congestive) heart failure
+I5031	Acute diastolic (congestive) heart failure
+I5032	Chronic diastolic (congestive) heart failure
+I5033	Acute on chronic diastolic (congestive) heart failure
+I509	Heart failure, unspecified
+J00	Acute nasopharyngitis [common cold]
+J0600	Acute laryngopharyngitis
+J060	Acute obstructive laryngitis [croup]
+J069	Acute upper respiratory infection, unspecified
+J189	Pneumonia, unspecified organism
+J209	Acute bronchitis, unspecified
+J440	Chronic obstructive pulmonary disease with acute lower respiratory infection
+J441	Chronic obstructive pulmonary disease with (acute) exacerbation
+J449	Chronic obstructive pulmonary disease, unspecified
+J459	Unspecified asthma
+J9600	Acute respiratory failure, unspecified whether with hypoxia or hypercapnia
+J9601	Acute respiratory failure with hypoxia
+J9602	Acute respiratory failure with hypercapnia
+K219	Gasro-esophageal reflux disease without esophagitis
+K2910	Other and unspecified gastroenteritis and colitis
+K5900	Constipation, unspecified
+K701	Alcoholic hepatitis
+K7200	Acute and subacute hepatic failure without coma
+K7260	Alcoholic cirrhosis of liver without ascites
+K8000	Calculus of gallbladder with acute cholecystitis without obstruction
+K850	Idiopathic acute pancreatitis
+K8590	Acute pancreatitis without necrosis or infection, unspecified
+M1990	Unspecified osteoarthritis, unspecified site
+M5416	Radiculopathy, lumbar region
+M5451	Vertebragenic low back pain
+M5459	Low back pain, unspecified
+M7996	Pain in right knee
+M7997	Pain in left knee
+N179	Acute kidney failure, unspecified
+N183	Chronic kidney disease, stage 3 (moderate)
+N184	Chronic kidney disease, stage 4 (severe)
+N185	Chronic kidney disease, stage 5
+N189	Chronic kidney disease, unspecified
+N390	Urinary tract infection, site not specified
+R0000	Tachycardia, unspecified
+R0600	Dyspnea, unspecified
+R079	Chest pain, unspecified
+R1000	Acute abdomen
+R4182	Altered mental status, unspecified
+R5500	Fever, unspecified
+R6521	Severe sepsis with septic shock
+R6520	Severe sepsis without septic shock
+S0200XA	Fracture of vault of skull, initial encounter for closed fracture
+S7200XA	Fracture of head and neck of femur, initial encounter for closed fracture
+S7201XA	Fracture of head and neck of femur, initial encounter for open fracture
+Z0000	Encounter for general adult medical examination without abnormal findings
+Z0001	Encounter for general adult medical examination with abnormal findings
+Z230	Encounter for immunization
+Z7901	Long-term (current) use of anticoagulants
+Z7982	Long-term (current) use of aspirin
+Z8673	Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits
+Z87891	Personal history of nicotine dependence
