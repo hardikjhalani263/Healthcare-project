@@ -57,3 +57,20 @@ Spark SQL
 Databricks Volumes
 
 Git & GitHub
+
+Project Workflow
+Step 1 – Unity Catalog Setup
+
+Created:
+
+- Catalog
+- Schemas
+- Volume
+
+
+CREATE CATALOG healthcare_catalog;
+
+CREATE SCHEMA healthcare_catalog.raw;
+CREATE SCHEMA healthcare_catalog.bronze;
+CREATE SCHEMA healthcare_catalog.silver;
+CREATE SCHEMA healthcare_catalog.gold;
