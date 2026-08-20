@@ -19,27 +19,49 @@ The pipeline stores raw data in the Bronze layer, transforms it into dimensional
 <img width="958" height="500" alt="image" src="https://github.com/user-attachments/assets/023619d6-3fa8-49b3-8288-fcbe419c716e" />
 
 healthcare_catalog
+
 │
+
 ├── raw
+
 │   └── healthcare_files (Volume)
+
 │
+
 ├── bronze
+
 │   ├── bronze_drug_spend
+
 │   ├── bronze_hospital_cost
+
 │   ├── bronze_icd10
+
 │   └── bronze_fhir
+
 │
+
 ├── silver
+
 │   ├── dim_physician
+
 │   ├── dim_drug
+
 │   ├── dim_facility
+
 │   ├── dim_diagnosis
+
 │   ├── dim_date
+
 │   └── fact_drug_spend
+
 │
+
 └── gold
+
     ├── gold_drug_analytics
+    
     ├── gold_hospital_analytics
+    
     └── gold_physician_performance
 
     Technologies Used
